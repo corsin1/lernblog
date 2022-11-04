@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
+title = "Corsin Casty"
 description = "A Journey of Life and Learning"
-footerLeft = "Powered by 💛 and [lernblog.org](https://www.lernblog.org)"
-footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lernblog.org)"	
+footerLeft = "www.instagram.com/corsin36"
+footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lernblog.org)"
 +++
