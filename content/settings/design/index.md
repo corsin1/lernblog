@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/corsin.casty.jpg"
+icon = "/media/gymkirchenfeld.webp"
 logo = "/media/gymkirchenfeld.webp"
-image = "/img/default-image.jpg"
+image = "/media/gymkirchenfeld.webp"
 color = "#5d9fbd"
 +++
