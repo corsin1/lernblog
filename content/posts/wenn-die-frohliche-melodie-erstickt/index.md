@@ -3,6 +3,7 @@ title = "Wenn die fröhliche Melodie erstickt"
 date = "2022-12-01"
 draft = false
 pinned = false
+image = "fisch.jpeg"
 footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 +++
 {{<lead>}}
