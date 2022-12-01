@@ -3,7 +3,7 @@ title = "Wenn die fröhliche Melodie erstickt"
 date = "2022-12-01"
 draft = false
 pinned = false
-image = "fisch.jpeg"
+image = ""
 footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 +++
 {{<lead>}}
@@ -26,7 +26,7 @@ Während ein kleiner Specht am gegenüberliegenden Ufer auf einen Stamm einha�
 
 ### Dr. Joachim Guthruf
 
-Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. Später entschied er sich, das Studium für Gewässerbiologie an der EAWAG / ETH bei Zürich fortzusetzen. Er schrieb dort seine Dissertation über die Äsche, seinen Lieblingsfisch. Joachim ist seither Mitarbeiter beim Umweltbüro Aquatica GmbH in Wichtrach und untersucht häufig Gewässer mit schwindenden Fischbestände. Er ist ausserdem Leiter der Jugendgruppe Fischereiverein Aaretal und ist seit Kindheitsjahren ein begeisterter Hobbyfischer.
+Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. Später entschied er sich, das Studium für Gewässerbiologie an der EAWAG / ETH bei Zürich fortzusetzen. Er schrieb dort seine Dissertation über die Äsche, seinen Lieblingsfisch. Joachim ist seither Mitarbeiter beim Umweltbüro Aquatica GmbH in Wichtrach und untersucht häufig Gewässer mit schwindenden Fischbeständen. Er ist ausserdem Leiter der Jugendgruppe Fischereiverein Aaretal und ist seit Kindheitsjahren ein begeisterter Hobbyfischer.
 
 ![Joachim Guthruf, Gewässerbiologe und Leiter Jugendgruppe Aaretal. (Corsin Casty 25.09.2022)](1-duli.jpeg)
 
