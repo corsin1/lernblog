@@ -17,13 +17,17 @@ Die lebhafte Melodie von Schuberts “Forelle” ist eine ausgezeichnete Metaphe
 
 Während ein kleiner Specht am gegenüberliegenden Ufer auf einen Stamm einhämmert, hört man einen grellen Schrei „ I HA EINE!“. Fischer Carlo kurbelt eifrig die Schnur seiner Rute ein und sein Kumpel greift nach dem Kescher. Am Ende der Schnur hängt ein bemitleidenswerter, winziger Wels. Die Enttäuschung ist Carlo ins Gesicht geschrieben. Joachim erklärt uns, dass nicht nur die Grösse des Fisches, sondern auch die Art für Ernüchterung sorgte. Fischarten wie der Wels profitieren vom Temperaturanstieg, denn sie können sich unter diesen Umständen besonders gut fortpflanzen. Der Wels wird demnach immer häufiger. Obschon der Fischerverein vermehrt Jungfische aussetzt, fallen die Fangzahlen von Kaltwasserfischen von Jahr zu Jahr, erzählt uns Joachim. Bei den Bachforellen liegt es nicht etwa an der natürlichen Fortpflanzung, sondern viel mehr daran, dass die Fische den ersten Sommer nicht überleben. Durch den übermässigen Gebrauch von Pestiziden in der Landwirtschaft, gerät Dünger in die natürlichen Gewässer und führt zu einem klebrigen, vermoosten Boden. Dieser nährreiche Boden verursacht die Zerstörung der Laichplätze von Bachforellen und Äschen. Seit dem Aufschwung gegen die Jahrtausendwende erleben wir vor allem im Mittelland einen progressiven Rückgang der kälteliebenden Fischbestände.
 
-{{<box>}}
+
 
 ![Zwei Städter mit der falschen Ausrüstung, jedoch mit der richtigen Einstellung. (Xeno Messmer 25.09.2022)](japsss.jpeg)
+
+{{<box>}}
 
 ### Dr. Joachim Guthruf
 
 Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. Später entschied er sich, das Studium für Gewässerbiologie an der EAWAG / ETH bei Zürich fortzusetzen. Er schrieb dort seine Dissertation über die Äsche, seinen Lieblingsfisch. Joachim ist seither Mitarbeiter beim Umweltbüro Aquatica GmbH in Wichtrach und untersucht häufig Gewässer mit schwindenden Fischbestände. Er ist ausserdem Leiter der Jugendgruppe Fischereiverein Aaretal und ist seit Kindheitsjahren ein begeisterter Hobbyfischer.
+
+![Joachim Guthruf, Gewässerbiologe und Leiter Jugendgruppe Aaretal. (Corsin Casty 25.09.2022)](1-duli.jpeg)
 
 {{</box>}}
 
@@ -31,11 +35,15 @@ Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. 
 
 Das wunderbare türkis-grüne Wasser der Aare erweckt den Anschein eines gesunden Ökosystems. Der Betrachter wird aber getäuscht. Die knallharte Realität ist, dass sich mit erhöhten Gewässertemperaturen auch die Parasiten im blauen Reich verbreiten. Die proliferative Nierenkrankheit trete bei den Forellen und Äschen in den Sommermonaten besonders häufig auf, erzählt uns Joachim. Befallene Fische sind leicht erkennbar, denn sie wirken teilnahmslos und beim Sezieren sieht man deren grau verfärbte Niere. Die Niere, das wichtigste blutbildende Organ der Fische, kann durch den Parasiten weniger rote Blutkörperchen bilden. Dies führt zu einer Blutarmut, doch die Gewebe erhalten noch knapp ausreichend vom essenziellen Sauerstoff. Mit dem zusätzlichen Wärmeanstieg sinkt die Löslichkeit von Sauerstoff im Wasser. Dies führt zu einer zusätzlichen Sauerstoffknappheit. Die bittere Folge: der Erstickungstod. «Hunderti erstickti Fische hani gseh i dem Summer», beklagt sich unser Fischerfreund Carlo sichtlich aufgewühlt nach Joachims biologischer Erklärung des Fischsterbens. Wie uns Joachim im Interview genau erklärt, sterben im ersten Lebensjahr bis zu 80% der jungen Forellen an dieser Krankheit.
 
+![Joachim Guthruf und Corsin Casty waten durch die Aare. (Xeno Messmer 25.09.2022)](jap-2.jpeg)
+
 ### Die Nachhaltigkeit der Wasserkraft
 
 Nach einer kurzen Verpflegungspause in der Vereinshütte begeben sich die rund 20 Fischer/innen wieder ans Ufer, diesmal mit deutlich weniger Euphorie als in der Früh. Ausser dem untermässigen Wels wurde kein einziger Fisch gefangen. Auch die vielen Wasserkraftwerke der Schweiz, stellen eingrosses Problem für die Fische dar. Das Potenzial der Wasserkraftwerke ist bereits zu über 95 Prozent ausgeschöpft und trotzdem würden viele Investitionen vom Bund finanziert werden, um die autonome Energieversorgung in der Schweiz zu gewährleisten. 58 % unseres erzeugten Stroms wurde 2020 durch Wasserkraftwerke erzeugt. Auch wenn Wasserkraftnutzung kein CO2 ausstösst und nachhaltig ist, kann sie die Natur beeinträchtigen. Wasserkraftwerke blockieren Laichrouten von gewissen Arten und ganze Fischschwärme können vernichtet werden. Die Fische können in die Turbinenpassage geraten und dort elendiglich verenden. Etwa 50 Meter flussaufwärts vom Flussbett, in welchem wir seit Stunden aufgespiesste Maden auswerfen, sind Kanalisierungsarbeiten im Gange. Die Kanalisierung der Aare steht in den letzten Jahren stark in der Kritik. Je stärker der Klimawandel fortschreitet, desto mehr muss man das Gewässer aufgrund der Hochwassergefahr durch Aufweitung und die Schaffung von Saitenarmen renaturieren. Fische sind dringend auf ein natürliches Habitat angewiesen. Denn nur dort können sie laichen, fressen und überwintern ohne gestört zu werden.
 
 Der Lärm, den die schweren Maschinen verursachen, ist nervenzehrend und in unseren überdimensionalen Wathosen wird uns allmählich heiss. Es bleibt nur übrig zu hoffen, dass sich der Hochwasserschutz und die Renaturierung sowohl für die Menschen als auch für die Fische lohnen. Joachim, der beharrlich an derselben Stelle fischt, murmelt vor sich hin «An das muss man sich wohl auch in Zukunft gewöhnen». Früher habe es Tage gegeben, an denen er bis zu sechs Fische aus der Aare gezogen habe. Heute seien es nur noch selten welche. Wie uns eine Fischerin erklärt, sei heute ein guter Angeltag, denn der Mond sei abnehmend. Anscheinend gibt es einen Zusammenhang zwischen Fangerfolg und zunehmendem Mond. Auf Nachfrage kann uns Joachim diese Theorie auch nicht wirklich erklären.
+
+![Corsin und Xeno beim Aarefischen (Xeno Messmer 25.09.2022)](jap-2d.jpeg)
 
 {{<box>}}
 
@@ -58,3 +66,5 @@ finanzielle Möglichkeiten sind ihre Aktionen jedoch beschränkt. Joachim mein
 Während dem Abendessen erzählen die erfahrenen Fischer alte Geschichten. Wie sie «riesige Püderforellen» überwältigten, damals, als alles noch besser war. Das Fischerlatein ist in den Geschichten nicht zu überhören, dennoch sind sie äusserst unterhaltsam. Die Jungen hören gebannt zu. Die Fischer, die noch Energie haben, gehen nach dem Abendessen noch einmal ans Wasser.
 
 Wir finden, dass dieser Verein wirklich eine tolle Gemeinschaft ist, bestehend aus allen Gesellschaftsschichten, verbunden durch ein immer schwieriger werdendes Hobby; das Aarefischen. Einen wunderbaren Sport mitten in der Natur, bedroht durch uns Menschen. Wohl oder übel müssen auch wir kurz vor Sonnenuntergang ein letztes Mal unseren Köder gegen die Strömung der Aare auswerfen. Alle Fischer, die ihre Ruten und Fischutensilien weggeräumt haben, schauen uns bei unserem letzten Auswurf gebannt zu. Eine einsame Bachforelle, die sich irgendwie an unseren spitzen Haken verirrt, hätte uns gereicht. Doch der Biss bleibt aus. Die fröhliche Melodie der Forelle ist wohl letzten Sommer erstickt.
+
+![Xeno (links im Bild), Joachim Guthruf (in der Mitte), Corsin Casty (rechts im Bild) (Selbstauslöser 25.09.2022)](jap-3.jpeg)
