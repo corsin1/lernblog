@@ -19,6 +19,8 @@ Während ein kleiner Specht am gegenüberliegenden Ufer auf einen Stamm einha�
 
 {{<box>}}
 
+![Zwei Städter mit der falschen Ausrüstung, jedoch mit der richtigen Einstellung. (Xeno Messmer 25.09.2022)](japsss.jpeg)
+
 ### Dr. Joachim Guthruf
 
 Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. Später entschied er sich, das Studium für Gewässerbiologie an der EAWAG / ETH bei Zürich fortzusetzen. Er schrieb dort seine Dissertation über die Äsche, seinen Lieblingsfisch. Joachim ist seither Mitarbeiter beim Umweltbüro Aquatica GmbH in Wichtrach und untersucht häufig Gewässer mit schwindenden Fischbestände. Er ist ausserdem Leiter der Jugendgruppe Fischereiverein Aaretal und ist seit Kindheitsjahren ein begeisterter Hobbyfischer.
