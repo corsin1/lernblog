@@ -3,8 +3,8 @@ title = "Wenn die fröhliche Melodie erstickt"
 date = "2022-12-01"
 draft = false
 pinned = false
-image = "fisch.jpeg"
-footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty\n\nQuelle Titelbild: https://www.fischzucht-bremgarten.ch/produkte/unsere-fische/lachsforelle"
+image = "joooo.jpeg"
+footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 +++
 {{<lead>}}
 
