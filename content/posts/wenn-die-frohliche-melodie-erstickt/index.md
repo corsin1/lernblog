@@ -3,6 +3,7 @@ title = "Wenn die fröhliche Melodie erstickt"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage", "Fischen", "Aare"]
 image = "joooo.jpeg"
 footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 +++
@@ -12,13 +13,9 @@ footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 
 {{</lead>}}
 
-### Petri Heil
-
 Die lebhafte Melodie von Schuberts “Forelle” ist eine ausgezeichnete Metapher für die Stimmung an jenem kühlen Septembermorgen an der Aare. Joachim Guthruf und seine Anglerfreunde vom Fischereiverein Aaretal haben uns (Corsin und Xeno) zum Äschenfischen nach Münsingen eingeladen. Obwohl die Wassertemperatur einige Grade über der normalen Monatstemperatur liegt, versuchen die Hobby-Fischer ihr Glück. “Petri-Heil” wünscht uns Fischer Joachim und wir schlenzen die zuckende Bienenmade, befestigt am Haken unserer Spinnrute, in die strömende Aare. Während wir mit Gummistiefel, und Wathosen durchs Flussbecken waten, fällt uns auf, dass die Wassertemperatur tatsächlich wärmer ist als erwartet. Statistiken zeigen einen klaren durchschnittlichen Temperaturanstieg seit den 1970er-Jahren. Dieser Anstieg von Rund 1.5 Grad Celsius hat im Sommer einen negativen Einfluss auf Kaltwasserfische wie Forelle, Äsche und Trüsche. Obwohl erst ab 25 Grad Celsius akute Todesgefahr herrscht, wird es bereits ab 23 Grad stressig für die kälteliebenden Spezies. Beim Fischbestand der Äsche sind 85% der Fische männlich. Experten vermuten, dass eine Korrelation zwischen Temperaturzunahme und dem prozentualen Anteil von männlichen Äschen besteht.
 
 Während ein kleiner Specht am gegenüberliegenden Ufer auf einen Stamm einhämmert, hört man einen grellen Schrei „ I HA EINE!“. Fischer Carlo kurbelt eifrig die Schnur seiner Rute ein und sein Kumpel greift nach dem Kescher. Am Ende der Schnur hängt ein bemitleidenswerter, winziger Wels. Die Enttäuschung ist Carlo ins Gesicht geschrieben. Joachim erklärt uns, dass nicht nur die Grösse des Fisches, sondern auch die Art für Ernüchterung sorgte. Fischarten wie der Wels profitieren vom Temperaturanstieg, denn sie können sich unter diesen Umständen besonders gut fortpflanzen. Der Wels wird demnach immer häufiger. Obschon der Fischerverein vermehrt Jungfische aussetzt, fallen die Fangzahlen von Kaltwasserfischen von Jahr zu Jahr, erzählt uns Joachim. Bei den Bachforellen liegt es nicht etwa an der natürlichen Fortpflanzung, sondern viel mehr daran, dass die Fische den ersten Sommer nicht überleben. Durch den übermässigen Gebrauch von Pestiziden in der Landwirtschaft, gerät Dünger in die natürlichen Gewässer und führt zu einem klebrigen, vermoosten Boden. Dieser nährreiche Boden verursacht die Zerstörung der Laichplätze von Bachforellen und Äschen. Seit dem Aufschwung gegen die Jahrtausendwende erleben wir vor allem im Mittelland einen progressiven Rückgang der kälteliebenden Fischbestände.
-
-
 
 ![Zwei Städter mit der falschen Ausrüstung, jedoch mit der richtigen Einstellung. (Xeno Messmer 25.09.2022)](japsss.jpeg)
 
@@ -36,13 +33,9 @@ Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. 
 
 Das wunderbare türkis-grüne Wasser der Aare erweckt den Anschein eines gesunden Ökosystems. Der Betrachter wird aber getäuscht. Die knallharte Realität ist, dass sich mit erhöhten Gewässertemperaturen auch die Parasiten im blauen Reich verbreiten. Die proliferative Nierenkrankheit trete bei den Forellen und Äschen in den Sommermonaten besonders häufig auf, erzählt uns Joachim. Befallene Fische sind leicht erkennbar, denn sie wirken teilnahmslos und beim Sezieren sieht man deren grau verfärbte Niere. Die Niere, das wichtigste blutbildende Organ der Fische, kann durch den Parasiten weniger rote Blutkörperchen bilden. Dies führt zu einer Blutarmut, doch die Gewebe erhalten noch knapp ausreichend vom essenziellen Sauerstoff. Mit dem zusätzlichen Wärmeanstieg sinkt die Löslichkeit von Sauerstoff im Wasser. Dies führt zu einer zusätzlichen Sauerstoffknappheit. Die bittere Folge: der Erstickungstod. «Hunderti erstickti Fische hani gseh i dem Summer», beklagt sich unser Fischerfreund Carlo sichtlich aufgewühlt nach Joachims biologischer Erklärung des Fischsterbens. Wie uns Joachim im Interview genau erklärt, sterben im ersten Lebensjahr bis zu 80% der jungen Forellen an dieser Krankheit.
 
-
-
-## «Hunderti erstickti Fische hani gseh i dem Summer» 
+## «Hunderti erstickti Fische hani gseh i dem Summer»
 
 *Carlo, Fischer*
-
-
 
 ![Joachim Guthruf und Corsin Casty waten durch die Aare. (Xeno Messmer 25.09.2022)](jap-2.jpeg)
 
@@ -52,13 +45,9 @@ Nach einer kurzen Verpflegungspause in der Vereinshütte begeben sich die rund 
 
 Der Lärm, den die schweren Maschinen verursachen, ist nervenzehrend und in unseren überdimensionalen Wathosen wird uns allmählich heiss. Es bleibt nur übrig zu hoffen, dass sich der Hochwasserschutz und die Renaturierung sowohl für die Menschen als auch für die Fische lohnen. Joachim, der beharrlich an derselben Stelle fischt, murmelt vor sich hin «An das muss man sich wohl auch in Zukunft gewöhnen». Früher habe es Tage gegeben, an denen er bis zu sechs Fische aus der Aare gezogen habe. Heute seien es nur noch selten welche. Wie uns eine Fischerin erklärt, sei heute ein guter Angeltag, denn der Mond sei abnehmend. Anscheinend gibt es einen Zusammenhang zwischen Fangerfolg und zunehmendem Mond. Auf Nachfrage kann uns Joachim diese Theorie auch nicht wirklich erklären.
 
-
-
 ## «An das muss man sich wohl auch in Zukunft gewöhnen»
 
 Joachim Guthruf, Gewässerbiologe und Hobbyfischer
-
-
 
 ![Corsin und Xeno beim Aarefischen (Xeno Messmer 25.09.2022)](jap-2d.jpeg)
 
