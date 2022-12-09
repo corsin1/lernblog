@@ -5,11 +5,13 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "Fischen", "Aare"]
 image = "joooo.jpeg"
-footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
+footnotes = "**Instagram: [Corsin Casty](https://www.instagram.com/corsin36/)**\n\n**Email: corsin.casty@students.unibe.ch**"
 +++
 {{<lead>}}
 
 ## Wie der Klimawandel die Bestände unserer kälteliebenden Fischbestände in der Aare schrumpfen lässt - der aussichtslose Kampf des Fischereivereins Aaretal
+
+*Eine Reportage von Xeno Messmer und Corsin Casty*
 
 {{</lead>}}
 
